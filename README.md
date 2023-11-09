@@ -7,7 +7,7 @@ This project contains the source code for the Tourism Agency System developed by
 
 [Project Screen Recording](https://www.loom.com/share/2741e84a4144492b87abd55a0f601660?sid=14903fbb-878b-4c6a-96d1-2c4e4e7bc94f)
 
-<img alt="Video Screenshot" height="200" src="/home/ss/Desktop/TurizmAcentası/TourismManagementSystem/src/img/videoss.png" width="300">
+<img alt="Video Screenshot" height="200" src="/src/img/videoss.png" width="300">
 
 
 ## Getting Started
